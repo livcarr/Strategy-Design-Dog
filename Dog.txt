@@ -1,0 +1,4 @@
+Dog class with noiseBehavior() and moveBehavior()
+  noiseBehavior() and moveBehavior() are encapsulated families of algorithms, each method/action being interchangeable
+  Uses composition over inheritance, adds comments where it shows that this is better
+  Encapsulates what varies (noises and moving)
